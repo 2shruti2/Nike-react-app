@@ -1,3 +1,3 @@
-#Nike-react-app
+Nike-react-app
 
-https://nike-react-app-wheat.vercel.app/#contact-us
+https://nike-react-app-wheat.vercel.app/
