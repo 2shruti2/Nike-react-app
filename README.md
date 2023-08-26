@@ -1,3 +1,12 @@
-Nike-react-app
+# Nike-react-app
 
-https://nike-react-app-wheat.vercel.app/
+live: https://nike-react-app-wheat.vercel.app/
+
+Technologies Used:
+
+1.React
+
+2.Tailwind CSS
+
+
+
